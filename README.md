@@ -2,7 +2,7 @@
 
 ## Preview
 
-![](./screenshots/screenshot01.png)
-![](./screenshots/screenshot02.png)
-![](./screenshots/screenshot03.png)
-![](./screenshots/screenshot04.png)
+![](./screenshot01.png)
+![](./screenshot02.png)
+![](./screenshot03.png)
+![](./ screenshot04.png)
